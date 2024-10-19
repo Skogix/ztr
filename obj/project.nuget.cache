@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVV2j1rCcoHVLq0n/GwW5tCASTfzVCZU3ZBAYLBqQO7tjWtZ6gNkbXIAi8aqYAJpMJP1SeL8PcYfd0j+AT2QjQ==",
+  "success": true,
+  "projectFilePath": "/home/skogix/ztr/ztr.csproj",
+  "expectedPackageFiles": [
+    "/home/skogix/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

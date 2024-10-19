@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "96s6gqd7P0EK2bzdqHUn5xBJ0iCr7elSiV4h3QFA20t1IHyS8HigyEDa5Xhj85zzALE4EYRGq9fkuOKLmWEzEw==",
+  "success": true,
+  "projectFilePath": "/home/skogix/ztr/MyConsoleApp/MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/skogix/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
